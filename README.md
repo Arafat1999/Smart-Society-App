@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 Purpose:
 The current system of maintaining housing society requires tremendous
 man power, time and human interaction. For example: notifying
@@ -20,7 +20,7 @@ reduces transparency as there is usually one annual report of finances.
 It can also be inefficient due to delay in addressing of complaints and
 grievances due to varied reasons.
 
-#Project Scope:
+# Project Scope:
 • This application will overcome the drawbacks of maintaining housing
 societies via traditional methods.
 • Time efficient in terms of users will be able to pay maintenance
@@ -34,7 +34,7 @@ notices.
 as financial transactions for maintenance of the society will
 be regularly updated.
 
-#Project Goals and Objectives:
+# Project Goals and Objectives:
 Goals:
 • Online Maintenance Payment will avoid human interaction and
 give the liberty to pay from any where and any time with ease.
@@ -52,7 +52,7 @@ where as admin can add notices.
 •Contact information about important individuals such as committee
 members, security guards will help in quick redressals.
 
-#Objectives:
+# Objectives:
 The objectives of creating an app to develop a new system that is time
 efficient, cost effective, reduces manual labour and increases the transparency.
 This will be achieved through the following points:
